@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
+title: One Day Hobbies
+subtitle: 'Random interests and personal side-quests'
+description: 'A blog by Chris Budy about short-lived hobbies and personal side-quests.'
+keywords: 'hobbies, side-quests, personal, blog, interests, random'
+author: Chris Budy
 language: en
-timezone: ''
+timezone: 'Asia/Tokyo'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: http://chris.budy.org/odh
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
