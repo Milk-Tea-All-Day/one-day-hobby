@@ -50,6 +50,14 @@ The new ride:
 
 # Raspberry Pi Server
 
+This has only somewhat begun, in that I sourced some stuff I've wanted to do for a little while. I'm hosting this site, and my other sites via a Raspberry Pi server. Gave up on paid hosting, as all my sites are so small, and get so little traffic. I also go tired of having to maintain everything, and it feels silly to pay for any hosting regardless of how cheap it is/was.
+
+But I want to keep that webserver focused and as minimal as possible. So, I've been toying with the idea of picking up another Pi server, and using it as more of a dedicated build machine for building projects, etc. and being able to install software I don't want to install on a 'production' machine. My goal is for most of my sites to be run as static sites for now.
+
+Another part of this though, is I want to try to get my tiny server farm living in as small of a footprint as I can. So I am going to be trying to set it up using a tiny rack and a USB hub, etc. We'll see how it all works out, and I'll write it up in another post soon hopefully!
+
 # Hexo SSG
 
-I'm trying out Hexo to power this new site. So far it's pretty impressive for just getting something up and running.
+This website. I've decided to track my escapades this go-round to see what I'm doing, and give me a purpose to my hobbies. I like trying new things, but always feel a little bad that many of the things I try never really see the light of day. Now at least I'll have somewhere to log that I did a thing, and remind myself. Also, I've been wanting to spin up a website for myself again forever, but have never found the time between work and family stuff.
+
+So far, Hexo has been pretty nice. It's very simple in the ability to get something up and running and generating a static site. I'm familiar with markdown, and comfortable with raw code, moving my site files around, etc. I'm a little baffled by my initial experience with the default theme. I'm going to turn in for the day though, and will continue poking at it later, or not. But going to get the files moved over to deploy them to the web and be live again.
