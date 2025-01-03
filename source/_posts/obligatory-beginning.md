@@ -1,7 +1,10 @@
 ---
 title: The Obligatory Beginning
 date: 2025-01-02 16:17:11
-tags:
+tags: [keyboard, raspberry pi, hexo, ssg]
+categories:
+- [hardware]
+- [web-dev]
 ---
 
 This is my first test post that I made from scratch. The idea is that I'll use this to post content to a new hobby site and track all the various things I'm interested in. I'm not going to go into all the things I've done up until now, as it's vast and there's no fun there. If I get interested in those things again, then I'll write about them in that moment.
