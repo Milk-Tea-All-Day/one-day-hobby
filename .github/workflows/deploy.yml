@@ -22,5 +22,7 @@ jobs:
         run: npm run build
       
       - name: Deploy
+        env:
+          DEPLOY_ADDRESS: ${{ secrets.DEPLOY_ADDRESS }}
         run: |
-          rsync -avz --delete ./public/ {{ secrets.DEPLOY_ADDRESS }}:/var/www/chris.budy.org/odh/
+          rsync -avz --delete ./public/ $DEPLOY_ADDRESS:/var/www/chris.budy.org/odh/
