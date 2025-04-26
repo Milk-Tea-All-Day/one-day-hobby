@@ -1,5 +1,5 @@
 ---
-title: day hike to houkyouzan
+title: Day Hike to Houkyouzan
 date: 2025-01-06 16:32:08
 tags: [hiking, japan, family-time, jagariko]
 categories: [hiking]

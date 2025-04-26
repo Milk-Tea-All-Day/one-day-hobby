@@ -1,9 +1,9 @@
 ---
-title: bush-replacements
+title: Bush Replacements
 date: 2025-04-26 15:52:32
-tags: []
+tags: [cuttings, rooting, japan]
 categories:
-- []
+- [gardening]
 ---
 
 In true ODH fashion, I'm doing something completely different. I've tried this a handful of times before, usually with basil, but this time I'm working with a wall of shrubs ([Photinia x faseri](https://en.wikipedia.org/wiki/Photinia_%C3%97_fraseri)) in the back of our house.
